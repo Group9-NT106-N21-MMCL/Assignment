@@ -1,0 +1,14 @@
+D:\UIT\LTM\capcom\21520479_21520328_21521964\Lab5\baitapAPi\baitapAPi\bin\Debug\baitapAPi.exe.config
+D:\UIT\LTM\capcom\21520479_21520328_21521964\Lab5\baitapAPi\baitapAPi\bin\Debug\baitapAPi.exe
+D:\UIT\LTM\capcom\21520479_21520328_21521964\Lab5\baitapAPi\baitapAPi\bin\Debug\baitapAPi.pdb
+D:\UIT\LTM\capcom\21520479_21520328_21521964\Lab5\baitapAPi\baitapAPi\bin\Debug\Newtonsoft.Json.dll
+D:\UIT\LTM\capcom\21520479_21520328_21521964\Lab5\baitapAPi\baitapAPi\bin\Debug\Newtonsoft.Json.xml
+D:\UIT\LTM\capcom\21520479_21520328_21521964\Lab5\baitapAPi\baitapAPi\obj\Debug\baitapAPi.csproj.AssemblyReference.cache
+D:\UIT\LTM\capcom\21520479_21520328_21521964\Lab5\baitapAPi\baitapAPi\obj\Debug\baitapAPi.csproj.SuggestedBindingRedirects.cache
+D:\UIT\LTM\capcom\21520479_21520328_21521964\Lab5\baitapAPi\baitapAPi\obj\Debug\baitapAPi.Form1.resources
+D:\UIT\LTM\capcom\21520479_21520328_21521964\Lab5\baitapAPi\baitapAPi\obj\Debug\baitapAPi.Properties.Resources.resources
+D:\UIT\LTM\capcom\21520479_21520328_21521964\Lab5\baitapAPi\baitapAPi\obj\Debug\baitapAPi.csproj.GenerateResource.cache
+D:\UIT\LTM\capcom\21520479_21520328_21521964\Lab5\baitapAPi\baitapAPi\obj\Debug\baitapAPi.csproj.CoreCompileInputs.cache
+D:\UIT\LTM\capcom\21520479_21520328_21521964\Lab5\baitapAPi\baitapAPi\obj\Debug\baitapAPi.csproj.CopyComplete
+D:\UIT\LTM\capcom\21520479_21520328_21521964\Lab5\baitapAPi\baitapAPi\obj\Debug\baitapAPi.exe
+D:\UIT\LTM\capcom\21520479_21520328_21521964\Lab5\baitapAPi\baitapAPi\obj\Debug\baitapAPi.pdb
